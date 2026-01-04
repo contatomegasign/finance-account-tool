@@ -272,5 +272,5 @@ This project is designed as public-interest open-source evidence and is intended
 
 If you have any questions about the Financial Governance Self-Assessment Tool or would like to share with me what you have been working on, feel free to reach out to me via:
 
-LinkedIn: [Zunaira Iqbal](https://www.linkedin.com/in/zunaira-iqbal/)
-Email: [zunairaiqbal01@hotmail.com](zunairaiqbal01@hotmail.com)
+- **LinkedIn**: [Zunair Iqbal](https://www.linkedin.com/in/zunaira-iqbal/)
+- **Email**: [zunairaiqbal01@hotmail.com](mailto:zunairaiqbal01@hotmail.com)
