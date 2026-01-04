@@ -209,7 +209,7 @@ export default function Home() {
             Financial Governance Self-Assessment Tool
           </h1>
           <p className="text-lg text-gray-600">
-            Evaluate your organization's financial governance maturity through a structured assessment
+            Evaluate your organization&apos;s financial governance maturity through a structured assessment
           </p>
         </header>
 

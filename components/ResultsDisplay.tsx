@@ -33,7 +33,7 @@ export default function ResultsDisplay({ result, questions, onExportPDF }: Resul
         {result.highImpactNoCount >= 3 && (
           <div className="mt-4 p-4 bg-red-200 rounded-lg">
             <p className="font-semibold">
-              Note: {result.highImpactNoCount} high-impact questions were answered "No", which
+              Note: {result.highImpactNoCount} high-impact questions were answered &quot;No&quot;, which
               automatically classifies this assessment as High Risk.
             </p>
           </div>
