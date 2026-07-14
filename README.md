@@ -1,8 +1,8 @@
-# Financial Governance Self-Assessment Tool
+# Financial Account Tool
 
 ## About the Project
 
-The **Financial Governance Self-Assessment Tool** is a frontend-only web application designed to help Small and Medium Enterprises (SMEs) evaluate their financial governance maturity through a structured Yes/No questionnaire. This tool promotes financial transparency, identifies internal control weaknesses, and supports better financial decision-making.
+The **Financial Account Tool** is a frontend-only web application designed to help Small and Medium Enterprises (SMEs) evaluate their financial governance maturity through a structured Yes/No questionnaire. This tool promotes financial transparency, identifies internal control weaknesses, and supports better financial decision-making.
 
 ### Key Highlights
 
